@@ -1,0 +1,2 @@
+# simpleSchool
+simple school management
